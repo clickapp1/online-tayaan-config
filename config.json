@@ -1,0 +1,53 @@
+
+{
+  "app": {
+    "app_name": "Online Tayaan",
+    "loading_text": "Please wait...",
+    "connection_error_title": "Connection Problem",
+    "connection_error_message": "Unable to connect. Please try again.",
+    "reload_button": "Reload"
+  },
+  "default_popup": {
+    "enabled": true,
+    "title": "WELCOME!",
+    "message": "Welcome to Online Tayaan. Enjoy using our application!",
+    "title_size": 20,
+    "message_size": 15,
+    "title_color": "#FF0000",
+    "message_color": "#333333",
+    "background_color": "#FFFFFF",
+    "button_text": "GOT IT"
+  },
+  "remote_popup": {
+    "enabled": false,
+    "announcement_id": "announcement_001",
+    "title": "IMPORTANT ANNOUNCEMENT",
+    "message": "Please check our latest announcement.",
+    "title_size": 20,
+    "message_size": 15,
+    "title_color": "#FF0000",
+    "message_color": "#333333",
+    "background_color": "#FFFFFF",
+    "button_text": "OK, GOT IT"
+  },
+  "floating_buttons": {
+    "chat_us": {
+      "enabled": true,
+      "text": "Chat Us",
+      "url": "https://m.me/onlinetayaanchat"
+    },
+    "video_tutorial": {
+      "enabled": true,
+      "text": "Video Tutorial",
+      "url": "https://drive.google.com/drive/folders/12QL5w7xX1yK2qkqnz0eoFtXEndOTX-T4"
+    }
+  },
+  "website_links": [
+    "https://mtl-app.com/register?code=66EECEC9A44EB745&t=942293",
+    "https://lottomatik.co/register?code=66EECEC9A44EB745&t=10480",
+    "https://mtl.mobi/register?code=66EECEC9A44EB745&t=91080",
+    "https://mtl-pro.com/register?code=66EECEC9A44EB745&t=92980",
+    "https://mtl.onl/register?code=66EECEC9A44EB745&t=94290"
+  ],
+  "refresh_interval_seconds": 60
+}
