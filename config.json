@@ -9,8 +9,10 @@
   },
   "default_popup": {
     "enabled": true,
+    "type": "both",
     "title": "WELCOME!",
     "message": "Welcome to Online Tayaan. Enjoy using our application!",
+    "image_url": "https://drive.google.com/uc?export=view&id=17lhc-1ouyy0FswG92MGSMMUbPzNRUX8j",
     "title_size": 20,
     "message_size": 15,
     "title_color": "#FF0000",
@@ -21,8 +23,10 @@
   "remote_popup": {
     "enabled": true,
     "announcement_id": "announcement_005",
+    "type": "both",
     "title": "NEW ANNOUNCEMENT",
-    "message": "May bagong important update! test 2 lang",
+    "message": "",
+    "image_url": "https://drive.google.com/uc?export=view&id=17lhc-1ouyy0FswG92MGSMMUbPzNRUX8j",
     "title_size": 20,
     "message_size": 15,
     "title_color": "#FF0000",
