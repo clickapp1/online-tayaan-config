@@ -20,9 +20,9 @@
   },
   "remote_popup": {
     "enabled": true,
-    "announcement_id": "announcement_002",
+    "announcement_id": "announcement_005",
     "title": "NEW ANNOUNCEMENT",
-    "message": "May bagong important update!",
+    "message": "May bagong important update! test 2 lang",
     "title_size": 20,
     "message_size": 15,
     "title_color": "#FF0000",
