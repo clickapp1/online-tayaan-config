@@ -22,7 +22,7 @@
   },
   "remote_popup": {
     "enabled": true,
-    "announcement_id": "announcement_005",
+    "announcement_id": "announcement_006",
     "type": "both",
     "title": "NEW ANNOUNCEMENT",
     "message": "",
