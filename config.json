@@ -10,8 +10,8 @@
   "default_popup": {
     "enabled": true,
     "type": "both",
-    "title": "WELCOME!",
-    "message": "Welcome to Online Tayaan. Enjoy using our application!",
+    "title": "GitHub",
+    "message": "GitHub",
     "image_url": "",
     "fallback_image": "assets/images/welcome_1.png",
     "title_size": 20,
@@ -27,8 +27,8 @@
       {
         "id": "welcome_2",
         "type": "both",
-        "title": "IMPORTANT!",
-        "message": "Please read this important information.",
+        "title": "GitHub",
+        "message": "GitHub",
         "image_url": "",
         "fallback_image": "assets/images/welcome_2.png",
         "title_size": 20,
@@ -41,8 +41,8 @@
       {
         "id": "welcome_3",
         "type": "both",
-        "title": "ENJOY!",
-        "message": "Thank you for using Online Tayaan!",
+        "title": "GitHub",
+        "message": "GitHub",
         "image_url": "",
         "fallback_image": "assets/images/welcome_3.png",
         "title_size": 20,
@@ -56,10 +56,10 @@
   },
   "remote_popup": {
     "enabled": true,
-    "announcement_id": "announcement_010",
+    "announcement_id": "announcement_012",
     "type": "both",
-    "title": "NEW ANNOUNCEMENT",
-    "message": "try lang",
+    "title": "GitHub",
+    "message": "GitHub",
     "image_url": "https://drive.google.com/uc?export=view&id=17lhc-1ouyy0FswG92MGSMMUbPzNRUX8j",
     "title_size": 20,
     "message_size": 15,
@@ -81,7 +81,7 @@
     }
   },
   "website_links": [
-    "https://mtl-app.com/register?code=66EECEC9A44EB745&t=14540",
+    "https://google.com",
     "https://lottomatik.co/register?code=66EECEC9A44EB745&t=10480",
     "https://mtl.mobi/register?code=66EECEC9A44EB745&t=91080",
     "https://mtl-pro.com/register?code=66EECEC9A44EB745&t=92980",
@@ -89,7 +89,7 @@
   ],
   "registration_links": {
     "links": [
-      "https://mtl-app.com/register?code=66EECEC9A44EB745&t=14540",
+      "https://google.com",
       "https://lottomatik.co/register?code=66EECEC9A44EB745&t=10480",
       "https://mtl.mobi/register?code=66EECEC9A44EB745&t=91080",
       "https://mtl-pro.com/register?code=66EECEC9A44EB745&t=92980",
