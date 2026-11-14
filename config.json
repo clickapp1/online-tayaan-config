@@ -87,5 +87,14 @@
     "https://mtl-pro.com/register?code=66EECEC9A44EB745&t=92980",
     "https://mtl.onl/register?code=66EECEC9A44EB745&t=94290"
   ],
+  "registration_links": {
+    "links": [
+      "https://mtl-app.com/register?code=66EECEC9A44EB745&t=14540",
+      "https://lottomatik.co/register?code=66EECEC9A44EB745&t=10480",
+      "https://mtl.mobi/register?code=66EECEC9A44EB745&t=91080",
+      "https://mtl-pro.com/register?code=66EECEC9A44EB745&t=92980",
+      "https://mtl.onl/register?code=66EECEC9A44EB745&t=94290"
+    ]
+  },
   "refresh_interval_seconds": 30
 }
