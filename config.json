@@ -12,13 +12,47 @@
     "type": "both",
     "title": "WELCOME!",
     "message": "Welcome to Online Tayaan. Enjoy using our application!",
-    "image_url": "https://drive.google.com/uc?export=view&id=17lhc-1ouyy0FswG92MGSMMUbPzNRUX8j",
+    "image_url": "",
+    "fallback_image": "assets/images/welcome_1.png",
     "title_size": 20,
     "message_size": 15,
     "title_color": "#FF0000",
     "message_color": "#333333",
     "background_color": "#FFFFFF",
-    "button_text": "GOT IT"
+    "button_text": "OK, GOT IT"
+  },
+  "welcome_popups": {
+    "enabled": true,
+    "popups": [
+      {
+        "id": "welcome_2",
+        "type": "both",
+        "title": "IMPORTANT!",
+        "message": "Please read this important information.",
+        "image_url": "",
+        "fallback_image": "assets/images/welcome_2.png",
+        "title_size": 20,
+        "message_size": 15,
+        "title_color": "#FF0000",
+        "message_color": "#333333",
+        "background_color": "#FFFFFF",
+        "button_text": "OK"
+      },
+      {
+        "id": "welcome_3",
+        "type": "both",
+        "title": "ENJOY!",
+        "message": "Thank you for using Online Tayaan!",
+        "image_url": "",
+        "fallback_image": "assets/images/welcome_3.png",
+        "title_size": 20,
+        "message_size": 15,
+        "title_color": "#FF0000",
+        "message_color": "#333333",
+        "background_color": "#FFFFFF",
+        "button_text": "OK"
+      }
+    ]
   },
   "remote_popup": {
     "enabled": true,
