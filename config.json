@@ -1,7 +1,7 @@
 
 {
   "app": {
-    "app_name": "Online Tayaan",
+    "app_name": "Online Tayaan App v5",
     "loading_text": "Please wait...",
     "connection_error_title": "Connection Problem",
     "connection_error_message": "Unable to connect. Please try again.",
