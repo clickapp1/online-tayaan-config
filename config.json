@@ -56,7 +56,7 @@
   },
   "remote_popup": {
     "enabled": true,
-    "announcement_id": "announcement_013",
+    "announcement_id": "announcement_014",
     "type": "both",
     "title": "GitHub",
     "message": "GitHub",
