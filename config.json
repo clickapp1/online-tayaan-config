@@ -10,9 +10,9 @@
   "default_popup": {
     "enabled": true,
     "type": "both",
-    "title": "GitHub 4",
-    "message": "GitHub 4",
-    "image_url": "https://drive.google.com/uc?export=view&id=18f648xFSKPOXBWR0GWlxr9VAmtEIFPNA",
+    "title": "Pag Login",
+    "message": "i-click ang Login sa baba",
+    "image_url": "",
     "video_url": "",
     "fallback_image": "assets/images/welcome_1.png",
     "title_size": 20,
@@ -28,8 +28,8 @@
       {
         "id": "welcome_2",
         "type": "both",
-        "title": "GitHub 4",
-        "message": "GitHub 4",
+        "title": "Pag Register",
+        "message": "tingnan yang picture",
         "image_url": "",
         "video_url": "",
         "fallback_image": "assets/images/welcome_2.png",
@@ -43,9 +43,9 @@
       {
         "id": "welcome_3",
         "type": "both",
-        "title": "GitHub 4",
-        "message": "GitHub 4",
-        "image_url": "https://drive.google.com/uc?export=view&id=18f648xFSKPOXBWR0GWlxr9VAmtEIFPNA",
+        "title": "i-Click",
+        "message": "i-click lang ang Chat Us kung may tanong kayo",
+        "image_url": "",
         "video_url": "",
         "fallback_image": "assets/images/welcome_3.png",
         "title_size": 20,
@@ -58,7 +58,7 @@
     ]
   },
   "remote_popup": {
-    "enabled": true,
+    "enabled": false,
     "announcement_id": "announcement_020",
     "type": "both",
     "title": "an GitHub 3",
