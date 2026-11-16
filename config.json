@@ -10,7 +10,7 @@
   "default_popup": {
     "enabled": true,
     "type": "both",
-    "title": "Pag Login",
+    "title": "Kung may Account ka na",
     "message": "i-click ang Login sa baba",
     "image_url": "",
     "video_url": "",
@@ -28,7 +28,7 @@
       {
         "id": "welcome_2",
         "type": "both",
-        "title": "Pag Register",
+        "title": "Paano mag Register",
         "message": "tingnan yang picture",
         "image_url": "",
         "video_url": "",
