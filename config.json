@@ -58,12 +58,12 @@
     ]
   },
   "remote_popup": {
-    "enabled": false,
-    "announcement_id": "announcement_020",
+    "enabled": true,
+    "announcement_id": "announcement_021",
     "type": "both",
-    "title": "an GitHub 3",
-    "message": "an GitHub 3",
-    "image_url": "https://drive.google.com/uc?export=view&id=18f648xFSKPOXBWR0GWlxr9VAmtEIFPNA",
+    "title": "Wag kalimutan ang Password",
+    "message": "Wag kalimutan ang Password, i-sulat sa papel at ilagay sa wallet",
+    "image_url": "",
     "video_url": "",
     "title_size": 20,
     "message_size": 15,
